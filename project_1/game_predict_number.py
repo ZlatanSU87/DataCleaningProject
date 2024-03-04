@@ -76,17 +76,19 @@ def score_game(random_predict) -> int:
 
 def game_core_v3(number: int = 1) -> int:
     """
+    Вводим переменные под верхнюю и нижнюю границу поиска. Определяем путём вычисления центральное число в диапозоне границ.
+    Если центральное число больше угадываемого, то присваиваем центральное чило нижней границе; если меньше - присваиваем
+    его верхней границе. И так работает цикл While, пока не найдёт нужное число. В среднем - получается 5 попыток, при верхней
+    планке в 20. Задача решена.
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
 
     Returns:
         int: Число попыток
     """
- 
     count = 0
     max_number = 101
     min_number = 1
-    current_number = 0
     
     while True:
         count += 1
@@ -98,39 +100,5 @@ def game_core_v3(number: int = 1) -> int:
         elif mid_number == number:
             break
     return count
-print('Run benchmarking for game_core_v3: ', end='')
 score_game(game_core_v3)
-
-
-# def game_core_v3(number: int = 1) -> int:
-#     """Устанавливаем верхнюю и нижнюю границы поиска, алгоритм угадывает число по принципу бинарного дерева,
-#     если число больше центрального числа в диапазоне поиска, тогда переопределяем нижнюю границу,
-#     она становится равной загаданному числу, если число меньше, то переопределяем вернюю границу,
-#     и так каждый раз сокращаем диапазон поска в два раза.
-#     Функция принимает загаданной число, и возвращает количество попыток.
-    
-#     Args:
-#         number (int, optional): Загаданное число. Defaults to 1.
-
-#     Returns:
-#         int: Число попыток
-#     """
-#     # Ваш код начинается здесь
-#     count = 0
-#     max_num = 101 # Верняя граница поиска
-#     min_num =1 # Нижняя граница поиска
-    
-#     while True:
-#         count +=1  
-#         mid = (max_num+min_num) // 2 # Находим центральное число в диапазоне
-#         if number == mid:
-#             break
-#         elif mid < number:
-#             min_num = mid
-#         else:
-#             max_num = mid        
-#     # Ваш код заканчивается здесь
-    
-#     return count   
-# print('Run benchmarking for game_core_v3: ', end='')
-# score_game(game_core_v3)
+print('Run benchmarking for game_core_v3: ', end='')

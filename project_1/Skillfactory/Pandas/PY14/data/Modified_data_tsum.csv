@@ -1,0 +1,76 @@
+,brand,Category,producer_id,producer_color,price,item_id,color_id,current price,difference,outliers
+0,Valentino,Shoes,aaaaa1111_11,black,167,aaaaa111111,black,247,32.388663967611336,No
+1,Valentino,Shoes,aaaaa1111_12,black,188,aaaaa111112,black,161,16.77018633540373,No
+2,Valentino,Shoes,aaaaa1111_13,black,184,aaaaa111113,black,234,21.367521367521366,No
+3,Valentino,Shoes,aaaaa1111_14,bla//ck,196,aaaaa111114,black,167,17.365269461077844,No
+4,Valentino,Shoes,aaaaa1111_15,bla\\ck,250,aaaaa111115,black,153,63.39869281045751,No
+5,Valentino,Shoes,aaaaa1111_16,bla__ck,191,aaaaa111116,black,265,27.92452830188679,No
+6,Valentino,Shoes,aaaaa1111_17,bla\\c~k,218,aaaaa111117,black,169,28.994082840236686,No
+7,Valentino,Shoes,aaaaa1111_18,white_~,162,aaaaa111118,white,265,38.86792452830189,No
+8,Valentino,Shoes,aaaaa1111_19,white_~,236,aaaaa111119,white,250,5.6000000000000005,No
+9,Valentino,Shoes,aaaaa1111_20,white_~,178,aaaaa111120,white,255,30.19607843137255,No
+10,Valentino,Shoes,aaaaa1111_21,white_~,171,aaaaa111121,white,292,41.43835616438356,No
+11,Valentino,Shoes,aaaaa1111_22,white_~,237,aaaaa111122,white,250,5.2,No
+12,Valentino,Shoes,aaaaa1111_23,white_~,288,aaaaa111123,white,171,68.42105263157895,No
+13,Valentino,Shoes,aaaaa1111_24,white_~,259,aaaaa111124,white,237,9.282700421940929,No
+14,Valentino,Bags,aaaaa1111_25,~~~red,245,aaaaa111125,red,266,7.894736842105263,No
+15,Valentino,Bags,aaaaa1111_26,~~~red,235,aaaaa111126,red,242,2.8925619834710745,No
+16,Valentino,Bags,aaaaa1111_27,~~~red,293,aaaaa111127,red,203,44.33497536945813,No
+17,Valentino,Bags,aaaaa1111_28,~~~red,284,aaaaa111128,red,252,12.698412698412698,No
+18,Valentino,Bags,aaaaa1111_29,~~~red,192,aaaaa111129,red,206,6.796116504854369,No
+19,Valentino,Bags,aaaaa1111_30,~~~red,173,aaaaa111130,red,287,39.721254355400696,No
+20,Valentino,Bags,aaaaa1111_31,~~~red,256,aaaaa111131,red,189,35.44973544973545,No
+21,Valentino,Bags,aaaaa1111_32,~~~red,170,aaaaa111132,red,293,41.979522184300336,No
+22,Valentino,Bags,aaaaa1111_33,~~~red,168,aaaaa111133,red,190,11.578947368421053,No
+23,Valentino,Bags,aaaaa1111_34,~~~red,283,aaaaa111134,red,272,4.044117647058823,No
+24,Valentino,Bags,aaaaa1111_35,~~~red,225,aaaaa111135,red,153,47.05882352941176,No
+25,Brioni,Shoes,bbbbb1111_11,black,263,bbbbb111111,black,247,6.477732793522267,No
+26,Brioni,Shoes,bbbbb1111_12,black,216,bbbbb111112,black,188,14.893617021276595,No
+27,Brioni,Shoes,bbbbb1111_13,black,269,bbbbb111113,black,235,14.468085106382977,No
+28,Brioni,Shoes,bbbbb1111_14,bla//ck,232,bbbbb111114,black,196,18.367346938775512,No
+29,Brioni,Shoes,bbbbb1111_15,bla\\ck,178,bbbbb111115,black,164,8.536585365853659,No
+30,Brioni,Shoes,bbbbb1111_16,bla__ck,190,bbbbb111116,black,283,32.86219081272085,No
+31,Brioni,Shoes,bbbbb1111_17,bla\\c~k,291,bbbbb111117,black,198,46.96969696969697,No
+32,Brioni,Shoes,bbbbb1111_18,white_~,165,bbbbb111118,white,235,29.78723404255319,No
+33,Brioni,Shoes,bbbbb1111_19,white_~,286,bbbbb111119,white,299,4.3478260869565215,No
+34,Brioni,Shoes,bbbbb1111_20,white_~,169,bbbbb111120,white,256,33.984375,No
+35,Brioni,Shoes,bbbbb1111_21,white_~,238,bbbbb111121,white,216,10.185185185185185,No
+36,Brioni,Shoes,bbbbb1111_22,white_~,260,bbbbb111122,white,270,3.7037037037037033,No
+37,Brioni,Shoes,bbbbb1111_23,white_~,277,bbbbb111123,white,288,3.8194444444444446,No
+38,Brioni,Shoes,bbbbb1111_24,white_~,298,bbbbb111124,white,183,62.841530054644814,No
+39,Brioni,Bags,bbbbb1111_25,~~~red,180,bbbbb111125,red,153,17.647058823529413,No
+40,Brioni,Bags,bbbbb1111_26,~~~red,187,bbbbb111126,red,229,18.340611353711793,No
+41,Brioni,Bags,bbbbb1111_27,~~~red,153,bbbbb111127,red,183,16.39344262295082,No
+42,Brioni,Bags,bbbbb1111_28,~~~red,272,bbbbb111128,red,204,33.33333333333333,No
+43,Brioni,Bags,bbbbb1111_29,~~~red,213,bbbbb111129,red,197,8.121827411167512,No
+44,Brioni,Bags,bbbbb1111_30,~~~red,163,bbbbb111130,red,190,14.210526315789473,No
+45,Brioni,Bags,bbbbb1111_31,~~~red,257,bbbbb111131,red,157,63.69426751592356,No
+46,Brioni,Bags,bbbbb1111_32,~~~red,207,bbbbb111132,red,227,8.81057268722467,No
+47,Brioni,Bags,bbbbb1111_33,~~~red,248,bbbbb111133,red,192,29.166666666666668,No
+48,Brioni,Bags,bbbbb1111_34,~~~red,194,bbbbb111134,red,224,13.392857142857142,No
+49,Brioni,Bags,bbbbb1111_35,~~~red,160,bbbbb111135,red,251,36.254980079681275,No
+50,Stone Island,Shoes,sssss1111_11,black,194,sssss111111,black,160,21.25,No
+51,Stone Island,Shoes,sssss1111_12,black,178,sssss111112,black,244,27.049180327868854,No
+52,Stone Island,Shoes,sssss1111_13,black,211,sssss111113,black,276,23.55072463768116,No
+53,Stone Island,Shoes,sssss1111_14,bla//ck,197,sssss111114,black,206,4.368932038834951,No
+54,Stone Island,Shoes,sssss1111_15,bla\\ck,293,sssss111115,black,280,4.642857142857143,No
+55,Stone Island,Shoes,sssss1111_16,bla__ck,288,sssss111116,black,185,55.67567567567567,No
+56,Stone Island,Shoes,sssss1111_17,bla\\c~k,184,sssss111117,black,157,17.197452229299362,No
+57,Stone Island,Shoes,sssss1111_18,white_~,286,sssss111118,white,242,18.181818181818183,No
+58,Stone Island,Shoes,sssss1111_19,white_~,179,sssss111119,white,252,28.968253968253972,No
+59,Stone Island,Shoes,sssss1111_20,white_~,218,sssss111120,white,163,33.74233128834356,No
+60,Stone Island,Shoes,sssss1111_21,white_~,275,sssss111121,white,198,38.88888888888889,No
+61,Stone Island,Shoes,sssss1111_22,white_~,270,sssss111122,white,283,4.593639575971731,No
+62,Stone Island,Shoes,sssss1111_23,white_~,200,sssss111123,white,290,31.03448275862069,No
+63,Stone Island,Shoes,sssss1111_24,white_~,182,sssss111124,white,210,13.333333333333334,No
+64,Stone Island,Bags,sssss1111_25,~~~red,210,sssss111125,red,236,11.016949152542372,No
+65,Stone Island,Bags,sssss1111_26,~~~red,255,sssss111126,red,159,60.37735849056604,No
+66,Stone Island,Bags,sssss1111_27,~~~red,188,sssss111127,red,275,31.636363636363633,No
+67,Stone Island,Bags,sssss1111_28,~~~red,171,sssss111128,red,184,7.065217391304348,No
+68,Stone Island,Bags,sssss1111_29,~~~red,243,sssss111129,red,223,8.968609865470851,No
+69,Stone Island,Bags,sssss1111_30,~~~red,271,sssss111130,red,229,18.340611353711793,No
+70,Stone Island,Bags,sssss1111_31,~~~red,164,sssss111131,red,165,0.6060606060606061,Yes
+71,Stone Island,Bags,sssss1111_32,~~~red,158,sssss111132,red,196,19.387755102040817,No
+72,Stone Island,Bags,sssss1111_33,~~~red,194,sssss111133,red,236,17.796610169491526,No
+73,Stone Island,Bags,sssss1111_34,~~~red,256,sssss111134,red,222,15.315315315315313,No
+74,Stone Island,Bags,sssss1111_35,~~~red,205,sssss111135,red,275,25.454545454545453,No
